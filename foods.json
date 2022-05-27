@@ -1,0 +1,142 @@
+[
+    {
+        "foodName": "Eggs",
+        "fats": "5",
+        "carbs": "0",
+        "protiens": "6",
+        "calories": "143"
+    },
+    {
+        "foodName": "Bell Pepper",
+        "fats": "1",
+        "carbs": "7",
+        "protiens": "1",
+        "calories": "30"
+    },
+    {
+        "foodName": "Tuna",
+        "fats": "3",
+        "carbs": "0",
+        "protiens": "26",
+        "calories": "145"
+    },
+    {
+        "foodName": "Avocado",
+        "fats": "14",
+        "carbs": "9",
+        "protiens": "2",
+        "calories": "160"
+    },
+    {
+        "foodName": "Banana",
+        "fats": "0",
+        "carbs": "28",
+        "protiens": "1",
+        "calories": "110"
+    },
+    {
+        "foodName": "Strawberries",
+        "fats": "1",
+        "carbs": "8",
+        "protiens": "1",
+        "calories": "32"
+    },
+    {
+        "foodName": "Green Beans",
+        "fats": "0",
+        "carbs": "7",
+        "protiens": "3",
+        "calories": "31"
+    },
+    {
+        "foodName": "Greek Yogurt",
+        "fats": "4",
+        "carbs": "8",
+        "protiens": "20",
+        "calories": "146"
+    },
+    {
+        "foodName": "Apples",
+        "fats": "0",
+        "carbs": "25",
+        "protiens": "1",
+        "calories": "95"
+    },
+    {
+        "foodName": "Spinach",
+        "fats": "1",
+        "carbs": "3",
+        "protiens": "3",
+        "calories": "23"
+    },
+    {
+        "foodName": "Pineapple",
+        "fats": "1",
+        "carbs": "21",
+        "protiens": "1",
+        "calories": "83"
+    },
+    {
+        "foodName": "Chicken",
+        "fats": "6",
+        "carbs": "0",
+        "protiens": "53",
+        "calories": "284"
+    },
+    {
+        "foodName": "Beef",
+        "fats": "12",
+        "carbs": "0",
+        "protiens": "26",
+        "calories": "11"
+    },
+    {
+        "foodName": "tortillas",
+        "fats": "1",
+        "carbs": "9",
+        "protiens": "1",
+        "calories": "45"
+    },
+    {
+        "foodName": "Rice",
+        "fats": "0",
+        "carbs": "38",
+        "protiens": "4",
+        "calories": "30"
+    },
+    {
+        "foodName": "Pears",
+        "fats": "1",
+        "carbs": "27",
+        "protiens": "1",
+        "calories": "101"
+    },
+    {
+        "foodName": "Bell Pepper",
+        "fats": "1",
+        "carbs": "7",
+        "protiens": "1",
+        "calories": "30"
+    },
+    {
+        "foodName": "Oatmeal",
+        "fats": "6",
+        "carbs": "54",
+        "protiens": "10",
+        "calories": "303"
+    },
+    {
+        "foodName": "Turkey",
+        "fats": "4",
+        "carbs": "0",
+        "protiens": "25",
+        "calories": "145"
+    },
+    {
+        "foodName": "Butter",
+        "fats": "12",
+        "carbs": "0",
+        "protiens": "1",
+        "calories": "102"
+    }
+]
